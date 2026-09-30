@@ -1,0 +1,10 @@
+{
+  "name": "EduGenie – AI Learning Assistant",
+  "description": "Comprehensive Gemini-powered learning companion featuring AI personal tutoring, doubt solver, adaptive quizzes, smart study planner, flashcards, document analysis, and gamified progress tracking.",
+  "requestFramePermissions": [
+    "clipboard-write"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
